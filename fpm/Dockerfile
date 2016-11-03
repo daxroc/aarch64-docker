@@ -1,4 +1,4 @@
-FROM dcroche/aarch64/ruby
+FROM dcroche/aarch64.ruby
 
 MAINTAINER Damien Roche
 
