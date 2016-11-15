@@ -7,7 +7,7 @@ This image depends on the dcroche/aarch64/ruby container as a base
 ```
 cd fpm/ 
 docker build .
-tag <output-tag-id> roche/aarch64/fpm
+tag <output-tag-id> dcroche/aarch64.fpm
 ```
 
 ### Usage
